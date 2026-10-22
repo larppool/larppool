@@ -7,6 +7,6 @@
 
 <p></p>
  
-its me the real deadpool 
 
- marvel rival fans DNI + basic dni criteria 
+ marvel rival fans DNI + basic dni criteria
+ 
