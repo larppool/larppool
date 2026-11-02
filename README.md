@@ -7,5 +7,3 @@
 
 <p></p>
  
-
- [honourable mention <3](https://b1ade.straw.page)
