@@ -1,7 +1,7 @@
 <p align="center">
 
 <p align="center">
-<a href="https://hits.sh/github.com/larppool/hits/"><img alt="15" src="https://hits.sh/github.com/larppool/hits.svg?label=pirates&color=C63737&labelColor=4A2043"/></a>
+<a href="https://hits.sh/github.com/larppool/hits/"><img alt="15" src="https://hits.sh/github.com/larppool/hits.svg?label=nurses&color=C63737&labelColor=4A2043"/></a>
 <br> 
 <br>
 
